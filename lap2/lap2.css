@@ -1,0 +1,37 @@
+h1 {
+  color: rgba(54, 138, 110, 0.918);
+}
+p {
+  color: rgb(80, 255, 226);
+}
+h3 {
+  background-color: cornsilk;
+  color: cornflowerblue;
+  font-size: 50px;
+  text-align: center;
+  text-transform: capitalize;
+  text-shadow: 5px 5px 10px black;
+  word-spacing: 10px;
+  line-height: 1.5;
+}
+h1,
+p {
+  font-size: 40px;
+  background-color: darkgray;
+  font-weight: normal;
+}
+.color {
+  background-color: darkgray;
+  color: rgb(19, 20, 19);
+  font-size: 50px;
+}
+ul li {
+  color: rgb(255, 255, 255);
+  background-color: dodgerblue;
+}
+.color.back {
+  background-color: firebrick;
+}
+.co{
+    background-color: firebrick;
+}

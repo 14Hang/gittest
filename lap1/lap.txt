@@ -1,0 +1,18 @@
+- ul-li : châm tròn
+- ol-li : stt
+- <hr/> gạch ngang. <br/> xuống dòng 
+- lang="vi" định dạng văn bản tiếng Việt
+- /mở trong folder
+- <img src="link ảnh" alt="text cho biết ảnh lỗi"/>
+- ./ ra khỏi folder đang chứa nó 
+- ../ra khỏi folder lớn
+- ../../ ra khỏi folder lớn hơn 
+- chỉ dùng sao chép đường dân ảnh k dùng liên kết tới ảnh hoặc dow về cho tiện
+- link-> enter : icon cho trang
+-  special character html (https://www.html.am/reference/html-special-characters.cfm) : bảng mã hóa ký tự 
+- https://www.alt-codes.net/smiley_alt_codes.php  : emoticon
+- br = pre : ngắt dòng
+- &lt;html&gt;   : <html> 
+- trong = b : in đậm 
+- em = i : in nghiêng
+- h1 = H1 : đều là heding 

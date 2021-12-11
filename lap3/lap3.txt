@@ -1,0 +1,9 @@
+margin-left: auto;
+    margin-right: auto;
+}
+overflow: hidden;
+a -top bottom : k td chỉ dùng line height (
+
+ dùng đc khi đổi thành display
+inline:1 hàng 
+block:cao rộng
